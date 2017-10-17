@@ -1,6 +1,6 @@
 {
   "name": "ename",
-  "version": "1.0.0-b",
+  "version": "1.0.0-c",
   "description": "A tiny javascript library for renaming files in a logical way.",
   "repository": "lockround/ename",
   "main": "index.js",

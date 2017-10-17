@@ -9,7 +9,9 @@
 
 var ename = require('ename');
 
-ename.rename("funny.jpg", "un", true); //funny.jpg changed to un-funny.jpg
+ename.rename("funny.jpg", "un", true); 
+
+//funny.jpg changed to un-funny.jpg
 
 ```
 
