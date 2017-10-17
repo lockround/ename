@@ -7,9 +7,9 @@
 
 ```js
 
-var e = require('ename');
+var ename = require('ename');
 
-e.rename("funny.jpg", "un", true); //funny.jpg changed to un-funny.jpg
+ename.rename("funny.jpg", "un", true); //funny.jpg changed to un-funny.jpg
 
 ```
 
@@ -95,7 +95,7 @@ The array of file names we got from getFiles method.
 
 regex will be passed as a string it will automatically generate regex from that string. This regex will be tested over all files.
 
-Example: "un" in funny1.jpg & funny2.jpg
+#### Example: "un" in funny1.jpg & funny2.jpg
 
 ### Get in Touch
 
