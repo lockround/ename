@@ -8,6 +8,7 @@
 ```js
 
 var e = require('ename');
+
 e.rename("funny.jpg", "un", true); //funny.jpg changed to un-funny.jpg
 
 ```
@@ -44,7 +45,9 @@ Example:
 ```js
 
 var ename = require("ename");
+
 console.log(ename.getFiles(__dirname));
+
 //logs array of file names of this current directory through which this script is  running.
 
 ```
@@ -74,7 +77,9 @@ this boolean will determine whether you want to append that regex string before 
 ```js
 
 var ename = require("ename");
+
 ename.rename("funny.jpg", "un", true);
+
 //funny.jpg changed to un-funny.jpg
 
 ```
