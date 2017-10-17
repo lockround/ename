@@ -1,0 +1,20 @@
+{
+  "name": "ename",
+  "version": "1.0.0-b",
+  "description": "A tiny javascript library for renaming files in a logical way.",
+  "repository": "lockround/ename",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lockround/ename.git"
+  },
+  "author": "Shubham Tiwari <shubham@lockround.org> (http://lockround.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lockround/ename/issues"
+  },
+  "homepage": "https://github.com/lockround/ename#readme"
+}
