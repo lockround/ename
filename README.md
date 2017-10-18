@@ -1,4 +1,4 @@
-# EnameJS
+[![EnameJS Logo](http://res.cloudinary.com/lockround-web-solutions/image/upload/v1508312185/enameJS_p5dxce.png)](http://lockround.org/enamejs)
 
 > EnameJS is a tiny javascript library for renaming files in a logical way.
 
